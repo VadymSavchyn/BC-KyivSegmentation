@@ -1,0 +1,10 @@
+numpy
+opencv-python
+PyYAML
+rasterio
+geopandas
+shapely
+torch
+segmentation-models-pytorch
+albumentations
+roboflow
