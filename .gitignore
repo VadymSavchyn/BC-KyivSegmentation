@@ -221,3 +221,21 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# GIS & ML data
+*.tif
+*.tiff
+*.pth
+*.pt
+*.zip
+*.shp
+*.shx
+*.dbf
+*.prj
+*.cpg
+*.sbn
+*.sbx
+data/
+test_tiles/
+outputs/
+previews/
+dataset_config.json
